@@ -1,0 +1,8 @@
+Mobile
+
+label = visualização de texto
+deve estar dentro de um layout
+
+toda pagina tem um apenas um layout
+principal, dentro dele pode ter
+outros layouts

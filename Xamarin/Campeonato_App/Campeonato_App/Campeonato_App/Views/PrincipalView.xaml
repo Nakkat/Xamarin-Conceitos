@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Campeonato_App.Views.PrincipalView">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout
+                    Orientation="Horizontal"
+             >
+                <Image
+                Source="baseline_search_black_48dp.png" WidthRequest="30" HorizontalOptions="StartAndExpand" 
+                VerticalOptions="CenterAndExpand"
+                />
+                <Label 
+                Text="08/07/2020" 
+                FontSize="20"
+                HorizontalOptions="Center"
+                VerticalOptions="CenterAndExpand"
+                />
+                <Image 
+                Source="baseline_clear_black_48dp.png" WidthRequest="30" BackgroundColor="Aqua" HorizontalOptions="EndAndExpand" 
+                VerticalOptions="CenterAndExpand"
+                />
+            </StackLayout>
+            <Image
+                BackgroundColor="Gray"
+                HeightRequest="1"
+                HorizontalOptions="FillAndExpand"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
