@@ -1,0 +1,36 @@
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.deps.json
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.dll
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.pdb
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csprojAssemblyReference.cache
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfoInputs.cache
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfo.cs
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csproj.CoreCompileInputs.cache
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.dll
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.pdb
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Users\erikv\Desktop\github\senai-dev-1s2020\Xamarin\Manha\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.deps.json
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.dll
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\bin\Debug\netstandard2.0\Campeonato_App.pdb
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csprojAssemblyReference.cache
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\CadastroView.xaml.g.cs
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\LoginView.xaml.g.cs
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\PrincipalView.xaml.g.cs
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Views\SplashView.xaml.g.cs
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfoInputs.cache
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.AssemblyInfo.cs
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.csproj.CoreCompileInputs.cache
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.dll
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\ref\Campeonato_App.dll
+C:\Xamarin\Campeonato_App-Aula 5 (Erik)\Campeonato_App\Campeonato_App\obj\Debug\netstandard2.0\Campeonato_App.pdb

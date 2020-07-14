@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="Campeonato_App.Views.CadastroView">
+    <ContentPage.Content>
+        <StackLayout
+            Padding="20"
+            >
+            <StackLayout
+                VerticalOptions="CenterAndExpand"
+                Spacing="10"
+                >
+                <Image
+                    Source="app_logo.png"
+                    WidthRequest="200"
+                    Margin="0,20,0,0"
+                    />
+                <Entry
+                    Placeholder="Nome*"
+                    HorizontalOptions="FillAndExpand"
+                    />
+                <Entry
+                    Placeholder="Apelido*"
+                    HorizontalOptions="FillAndExpand"
+                    />
+                <Entry
+                    Placeholder="Email*"
+                    HorizontalOptions="FillAndExpand"
+                    />
+                <Entry
+                    Placeholder="Senha*"
+                    HorizontalOptions="FillAndExpand"
+                    />
+                <Button
+                    Text="Cadastrar-se"
+                    TextColor="White"
+                    BackgroundColor="{StaticResource green}"
+                    HorizontalOptions="Center"
+                    WidthRequest="150"
+                    CornerRadius="8"
+                    />
+            </StackLayout>
+            <Button
+                Clicked="btnLogin_Clicked"
+                Text="Login"
+                TextColor="{StaticResource blue}"
+                BackgroundColor="Transparent"
+                VerticalOptions="EndAndExpand"
+                FontSize="20"
+                />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

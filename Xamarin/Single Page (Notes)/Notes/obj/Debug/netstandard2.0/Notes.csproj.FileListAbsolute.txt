@@ -1,0 +1,36 @@
+C:\Xamarin\Single Page\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Xamarin\Single Page\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Xamarin\Single Page\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Xamarin\Single Page\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Xamarin\Aula 7 - Armazenamento\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.pdb
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\bin\Debug\netstandard2.0\Notes.deps.json
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\bin\Debug\netstandard2.0\Notes.dll
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\bin\Debug\netstandard2.0\Notes.pdb
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.dll
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Single Page (Notes)\Notes\obj\Debug\netstandard2.0\Notes.pdb

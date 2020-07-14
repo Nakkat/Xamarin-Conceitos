@@ -1,0 +1,16 @@
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\bin\Debug\netstandard2.0\Notes2.deps.json
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\bin\Debug\netstandard2.0\Notes2.dll
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\bin\Debug\netstandard2.0\ref\Notes2.dll
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\bin\Debug\netstandard2.0\Notes2.pdb
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\Notes2.csprojAssemblyReference.cache
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\NoteEntryPage.xaml.g.cs
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\NotesPage.xaml.g.cs
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\Notes2.AssemblyInfoInputs.cache
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\Notes2.AssemblyInfo.cs
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\Notes2.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\Notes2.dll
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\ref\Notes2.dll
+C:\Users\Bruno\Desktop\Xamarin-Conceitos\Xamarin\Notes2\Notes2\Notes2\obj\Debug\netstandard2.0\Notes2.pdb

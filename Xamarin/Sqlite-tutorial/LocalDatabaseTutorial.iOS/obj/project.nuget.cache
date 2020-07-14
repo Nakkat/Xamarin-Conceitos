@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "HnhLwtgUqcf69/DF/VJ+aARultW/nPIdxVpw0Jf0lbSCAmqgdF2ILEuztLYzt7EmPSXL8S9CgOz65a42QJ7gEA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Bruno\\Desktop\\Xamarin-Conceitos\\Xamarin\\Sqlite-tutorial\\LocalDatabaseTutorial.iOS\\LocalDatabaseTutorial.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bruno\\.nuget\\packages\\sqlite-net-pcl\\1.5.231\\sqlite-net-pcl.1.5.231.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.11\\sqlitepclraw.bundle_green.1.1.11.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\sqlitepclraw.core\\1.1.11\\sqlitepclraw.core.1.1.11.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.11\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.11.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\xamarin.forms\\4.7.0.968\\xamarin.forms.4.7.0.968.nupkg.sha512"
+  ],
+  "logs": []
+}
