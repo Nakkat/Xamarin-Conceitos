@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "j0B6vRp6Njll7mPvlinXh4WqKW8ypwLv97oqxMnjQroSydQ33CnEOQIY674mqq+VdNoiFW4aoDa5XyTeHFVbFQ==",
+  "dgSpecHash": "qZZuTMY3KAglk+0RWaYxAXpahhe1suEHS/kJZC0q89//TsRWULUMJmTB0n3sfgXLTu56iIZf7NbYQx7v2yL/JQ==",
   "success": true,
-  "projectFilePath": "C:\\Xamarin\\MasterDetail\\MasterDetailPage\\MasterDetailPage.Android\\MasterDetailPage.Android.csproj",
+  "projectFilePath": "C:\\Users\\Bruno\\Desktop\\Xamarin-Conceitos\\Xamarin\\MasterDetailPage\\MasterDetailPage.Android\\MasterDetailPage.Android.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\admin\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Bruno\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.lifecycle.common\\1.1.1.3\\xamarin.android.arch.lifecycle.common.1.1.1.3.nupkg.sha512",

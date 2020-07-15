@@ -603,25 +603,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\admin\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\Bruno\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Xamarin\\MasterDetail\\MasterDetailPage\\MasterDetailPage\\MasterDetailPage.csproj",
+      "projectUniqueName": "C:\\Users\\Bruno\\Desktop\\Xamarin-Conceitos\\Xamarin\\MasterDetailPage\\MasterDetailPage\\MasterDetailPage.csproj",
       "projectName": "MasterDetailPage",
-      "projectPath": "C:\\Xamarin\\MasterDetail\\MasterDetailPage\\MasterDetailPage\\MasterDetailPage.csproj",
-      "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Xamarin\\MasterDetail\\MasterDetailPage\\MasterDetailPage\\obj\\",
+      "projectPath": "C:\\Users\\Bruno\\Desktop\\Xamarin-Conceitos\\Xamarin\\MasterDetailPage\\MasterDetailPage\\MasterDetailPage.csproj",
+      "packagesPath": "C:\\Users\\Bruno\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bruno\\Desktop\\Xamarin-Conceitos\\Xamarin\\MasterDetailPage\\MasterDetailPage\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bruno\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
